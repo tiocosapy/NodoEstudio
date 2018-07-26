@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.1.6",
-    "uniqCompNum": 66,
+    "uniqCompNum": 68,
     "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "",
@@ -119,7 +119,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -756,7 +756,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -781,11 +781,11 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
-            "action": "contacto@nodo.com.py",
+            "action": "contacto@nodoestudio.com.py",
             "alerts": {
               "success": "¡Gracias por escribirnos!"
             },
@@ -893,7 +893,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -1110,7 +1110,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -1136,11 +1136,11 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
-            "action": "pablojavier.frontalini@gmail.com",
+            "action": "contacto@nodoestudio.com.py",
             "alerts": {
               "success": "¡Gracias por escribirnos!"
             },
@@ -1248,7 +1248,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -1548,7 +1548,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -1561,8 +1561,7 @@
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1574,11 +1573,11 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
-            "action": "pablojavier.frontalini@gmail.com",
+            "action": "contacto@nodoestudio.com.py",
             "alerts": {
               "success": "¡Gracias por escribirnos!"
             },
@@ -1686,7 +1685,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -1843,7 +1842,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -1869,7 +1868,7 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
@@ -1999,7 +1998,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -2256,7 +2255,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -2281,7 +2280,7 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
@@ -2393,7 +2392,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -2600,7 +2599,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -2626,7 +2625,7 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
@@ -2851,7 +2850,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -2951,7 +2950,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -2977,7 +2976,7 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
@@ -3089,7 +3088,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -3296,7 +3295,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><b><a href=\"index.html\">Principa</a></b></li><li><b style=\"font-size: 0.875rem;\"><a href=\"Quienes_somos.html\" class=\"text-primary\">?Quiénes Somo</a>s¿</b></li><li><a class=\"text-primary\" href=\"Servicios.html\"><b>Servicios</b></a></li><li><b>Proyectos</b></li><li><a class=\"text-primary\" href=\"Contacto.html\"><b>Contacto</b></a></li>",
+          "text5": "<li><a href=\"index.html\">Principal</a></li><li>?Quienes Somos¿</li><li><a class=\"text-primary\" href=\"Servicios.html\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\">Servicios</a></li><li>Proyectos</li><li><a class=\"text-primary\" href=\"Contacto.html\">Contacto</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "_tags": [
             "Theme"
@@ -3322,7 +3321,7 @@
           "text1": "",
           "text2": "595-21-3390207+",
           "text3": "<a href=\"Contacto.html#map2-t\">Tte. Francisco Cusmanich 871, Asunción</a>",
-          "text4": "<i><b><a href=\"mailto:contacto@nodo.com.py\" class=\"text-info\">contacto@nodoestudio.com</a>.py</b></i>",
+          "text4": "<i><b><a href=\"mailto:contacto@nodoestudio.com.py\" class=\"text-info\">contacto@nodoestudio.com.py</a></b></i>",
           "text6": "<strong>Contacto</strong><br>Email: contacto@nodoestudio.com.py<br><br><br><strong>Dirección</strong><br>Tte. Francisco Cusmanich 871, Asunción, Paraguay<br><i><a href=\"Contacto.html#map2-t\">ver mapa</a></i>",
           "form": {
             "title": "MESSAGE",
@@ -3434,7 +3433,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
@@ -3613,7 +3612,7 @@
             "fontColor": "#ff7d21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PRINCIPAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quienes_somos.html\">?QUIENES SOMOS¿</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Servicios.html\">SERVICIOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROYECTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">CIVIL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">MECANICA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">AMBIENTAL</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Contacto.html\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bitmap1-310x128.png",
